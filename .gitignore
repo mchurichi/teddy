@@ -1,6 +1,6 @@
 data.out
-
 *.py[co]
+*.??~
 
 # Packages
 *.egg
